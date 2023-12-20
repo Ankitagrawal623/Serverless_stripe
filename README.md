@@ -1,4 +1,4 @@
-Working link - https://github.com/Ankitagrawal623/Serverless_stripe.git
+Working link - https://kupqlanqslqywiczckwgrah4la0fbrnz.lambda-url.us-east-1.on.aws/
 
 So this is basically a serverless function using AWS Lambda using Node.js and integrated it with the Stripe API to process payments.
 
